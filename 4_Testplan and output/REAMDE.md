@@ -14,4 +14,10 @@
 
     1. Cancle booking (passed)
     2. Enter bus number & seat number (passed)
-    3. your 200 rupees has been returned
+    3. your 200 rupees has been returned (passed)
+* Enter your choice
+     
+    1. Bus status board (passed)
+    2. Enter bus number (passed)
+* Enter your choice
+    1. exit(passed)

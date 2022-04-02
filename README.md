@@ -8,3 +8,5 @@ https://api.codiga.io/project/32138/score/svg
 ![image](https://user-images.githubusercontent.com/101561930/160249055-ec860ac4-a427-4c43-8623-c48669fb066d.png)
 
 https://api.codiga.io/project/32138/status/svg
+
+[![Analysis](https://github.com/masanisaibhargav/M1_Bus-reservation-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/masanisaibhargav/M1_Bus-reservation-system/actions/workflows/c-cpp.yml)
